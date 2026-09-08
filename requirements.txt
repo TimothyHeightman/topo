@@ -1,0 +1,8 @@
+# Pinned numerical environment for every experiment and figure script
+# (Python >= 3.12; enforced at runtime by check_environment()).
+jax==0.11.0
+jaxlib==0.11.0
+optax==0.2.8
+numpy==2.5.2
+matplotlib==3.11.1
+tqdm==4.67.1
